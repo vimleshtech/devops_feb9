@@ -1,0 +1,6 @@
+hi
+bye
+test
+test2
+alpha
+this is my test file
